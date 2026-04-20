@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Sci-Fi",
+    "image": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?q=80&w=400&auto=format&fit=crop",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?q=80&w=400&auto=format&fit=crop",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "cast": "Christian Bale, Heath Ledger, Aaron Eckhart"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=400&auto=format&fit=crop",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+  },
+  {
+    "id": 4,
+    "title": "Forrest Gump",
+    "year": "1994",
+    "genre": "Drama",
+    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=400&auto=format&fit=crop",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+    "cast": "Tom Hanks, Robin Wright, Gary Sinise"
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1561149877-84d268ba65b8?q=80&w=400&auto=format&fit=crop",
+    "description": "After the devastating events of Infinity War, the remaining Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "cast": "Robert Downey Jr., Chris Evans, Mark Ruffalo"
+  },
+  {
+    "id": 6,
+    "title": "Iron Man",
+    "year": "2008",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?q=80&w=400&auto=format&fit=crop",
+    "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "cast": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard"
+  },
+  {
+    "id": 7,
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?q=80&w=400&auto=format&fit=crop",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+    "cast": "Tom Holland, Zendaya, Benedict Cumberbatch"
+  },
+  {
+    "id": 8,
+    "title": "Black Panther",
+    "year": "2018",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1585862705497-b01625441369?q=80&w=400&auto=format&fit=crop",
+    "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "cast": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o"
+  },
+  {
+    "id": 9,
+    "title": "Thor: Ragnarok",
+    "year": "2017",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=400&auto=format&fit=crop",
+    "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "cast": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett"
+  },
+  {
+    "id": 10,
+    "title": "RRR",
+    "year": "2022",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1580130281320-0ef0754f2bf7?q=80&w=400&auto=format&fit=crop",
+    "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s.",
+    "cast": "N.T. Rama Rao Jr., Ram Charan, Alia Bhatt"
+  },
+  {
+    "id": 11,
+    "title": "Dangal",
+    "year": "2016",
+    "genre": "Biography",
+    "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=400&auto=format&fit=crop",
+    "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "cast": "Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra"
+  },
+  {
+    "id": 12,
+    "title": "Baahubali 2: The Conclusion",
+    "year": "2017",
+    "genre": "Action",
+    "image": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?q=80&w=400&auto=format&fit=crop",
+    "description": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+    "cast": "Prabhas, Rana Daggubati, Anushka Shetty"
+  },
+  {
+    "id": 13,
+    "title": "Vikram",
+    "year": "2022",
+    "genre": "Thriller",
+    "image": "https://images.unsplash.com/photo-1593116544955-4a3194a28723?q=80&w=400&auto=format&fit=crop",
+    "description": "A special agent investigates a murder committed by a masked group of serial killers. However, a tangled maze of clues soon leads him to the drug kingpin of Chennai.",
+    "cast": "Kamal Haasan, Vijay Sethupathi, Fahadh Faasil"
+  },
+  {
+    "id": 14,
+    "title": "3 Idiots",
+    "year": "2009",
+    "genre": "Comedy",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=400&auto=format&fit=crop",
+    "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently.",
+    "cast": "Aamir Khan, Madhavan, Sharman Joshi"
+  }
+]
